@@ -8,7 +8,7 @@ function LoginPage() {
       <div>
         <img src={logo} alt="Logo"/>
       </div>
-      <h1 class = 'text-3xl my-6'><b>Entre com sua conta</b></h1>
+      <h1 class = 'text-3xl my-6 font-bold'>Entre com sua conta</h1>
       <div class = 'text-xl border-2 border-slate-200 rounded-md'>
         <div>
           <input type="text" placeholder="E-mail" class = 'border-b-2 border-slate-200' size = '40'/>
